@@ -1,0 +1,2 @@
+Wenn man den Warenkorb gefüllt hat und das Browserfenster schließt, sollte die Warenkorb-Summe beim nächsten Öffnen der Seite nicht EUR 0,00 sein.
+Dieses Plugin aktualisiert die Anzeige der Warenkorb-Summe oben rechts beim Öffnen des Shops. Dabei ruft es nur Daten ab, wenn die Anzeige wirklich auf EUR 0,00 steht. 
